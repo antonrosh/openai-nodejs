@@ -1,4 +1,4 @@
-# OpenAI GPT-3 and Node.js Project
+# OpenAI GPT-3.5/4 and Node.js Project
 
 ## Description
 
